@@ -1,4 +1,4 @@
-// Prints a string 
+// Print a string 
 
 .global _main
 .align 4

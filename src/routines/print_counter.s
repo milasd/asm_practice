@@ -1,5 +1,5 @@
-// Print numbers from 9 to 0
-//
+// Print numbers from 9 to 0 by converting the number to a string
+
 .global _main
 .align 4
 
